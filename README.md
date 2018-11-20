@@ -5,7 +5,7 @@ A simple http2 client that demonstrate how to make http2 GET request in 33 lines
 ## Usage
 
 ```
-➜ make run
+➜ make build && make run
 Erlang/OTP 21 [erts-10.1.1] [source] [64-bit] [smp:12:12] [ds:12:12:10] [async-threads:1] [hipe] [dtrace]
 
 Eshell V10.1.1  (abort with ^G)
